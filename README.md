@@ -1,1 +1,4 @@
-# Self Organizing Maps bsed Clustering for Keystroke Dynamics
+# Self Organizing Maps based Clustering for Keystroke Dynamics
+
+
+#Steps for Data Acquisition:
