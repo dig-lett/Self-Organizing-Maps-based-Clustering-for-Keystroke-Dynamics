@@ -42,9 +42,13 @@ This function update the weights and return Topo_neigh ie... perceptron with wei
 
 This function tells the final set of winning neurons for each input
 
-Then, we used clustering techniques to cluster the data.
+Then, we used clustering techniques K-means to cluster the data.
 
-Running the 
+# Execution: 
+
+1. Run main.py
+
+Note: All the .py files should be in the same directory
 
 
 
