@@ -4,6 +4,7 @@ This repository contains the extraction of relevant features from the data and p
 # Steps for Data Acquisition:
 
 >def extract_keylog_features(path) 
+
 Refer: keystroke_festure_extractor.py
 This functons takes the keylog features with the timestamp in two cases ie... hold time for a particular key and transition time between 2 keys pressed. 
 
