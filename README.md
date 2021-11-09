@@ -17,12 +17,12 @@ The training of an SOM is governed by hyperparameters, initial learning rate η0
 
 Used values of Hyperparameters for the implementation:
 
-> num_epochs = 1000
-> eta_0 = 1
-> sigma_0 = 8
-> t_eta = 500
-> t_sigma = 650
-> n = 15
+'num_epochs = 1000 
+eta_0 = 1 
+sigma_0 = 8 
+t_eta = 500 
+t_sigma = 650 
+n = 15'
 
 Libraries Used:
 1. numpy
