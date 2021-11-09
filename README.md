@@ -1,6 +1,11 @@
 # Self Organizing Maps based Clustering for Keystroke Dynamics
 This repository contains the extraction of relevant features from the data and process of keystroke dynamics by performing a dimensionality reduction using Kohonen Self Organising Maps a.k.a SOMs and inturn, do the unsupervised classification and authentication of users
 
+Libraries Used:
+1. numpy
+2. matplotlib
+3. standard Python Libraries
+
 # Steps for Data Acquisition:
 
 >def extract_keylog_features(path) 
@@ -40,12 +45,6 @@ This function tells the final set of winning neurons for each input
 Then, we used clustering techniques to cluster the data.
 
 Running the 
-
-
-Libraries Used:
-1. numpy
-2. matplotlib
-3. standard Python Libraries
 
 
 
