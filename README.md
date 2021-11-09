@@ -19,15 +19,15 @@ The training of an SOM is governed by hyperparameters learning rate decay time �
 
 They are set using the following coefficients:
 
-`initial learning rate, η0 = 1 
+> initial learning rate, η0 = 1 
 
-initial neighbourhood size, σ0 = 8 
+> initial neighbourhood size, σ0 = 8 
  
-initial neighbourhood size, σ0 = 500 
+> initial neighbourhood size, σ0 = 500 
 
-neighbourhood size decay rate, τσ = 650 
+> neighbourhood size decay rate, τσ = 650 
 
-n = 15`
+> n = 15
 
 Libraries Used:
 1. numpy
