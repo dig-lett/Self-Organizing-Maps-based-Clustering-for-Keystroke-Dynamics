@@ -5,7 +5,7 @@ This repository contains the extraction of relevant features from the data and p
 
 >def extract_keylog_features(path) 
 
-Refer: keystroke_festure_extractor.py
+_Refer: keystroke_festure_extractor.py_
 
 This functons takes the keylog features with the timestamp in two cases ie... hold time for a particular key and transition time between 2 keys pressed. 
 
@@ -27,6 +27,3 @@ Libraries Used:
 3. standard 
 
 
-`python3    
-import cv2    
-cv2.__version__`
