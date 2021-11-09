@@ -50,13 +50,10 @@ Then, we used clustering techniques K-means to cluster the data.
 
 Note: All the .py files should be in the same directory
 
-# Implementation Results:
-
-
-
 # References:
 
-1. Teuvo Kohonen. Self-organizing maps: ophmization approaches. In Artificial neural networks, pages 981–990. Elsevier, 1991.
-2. Teuvo Kohonen. Exploration of very large databases by self-organizing maps. In Proceedings of international conference on neural networks (icnn’97), volume 1, pages PL1–PL6. IEEE, 1997.
+1. 
+2. Teuvo Kohonen. Self-organizing maps: ophmization approaches. In Artificial neural networks, pages 981–990. Elsevier, 1991.
+3. Teuvo Kohonen. Exploration of very large databases by self-organizing maps. In Proceedings of international conference on neural networks (icnn’97), volume 1, pages PL1–PL6. IEEE, 1997.
 
 
