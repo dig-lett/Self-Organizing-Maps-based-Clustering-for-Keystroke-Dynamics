@@ -33,3 +33,8 @@ Libraries Used:
 1. numpy
 2. matplotlib
 3. standard 
+
+
+`python3    
+import cv2    
+cv2.__version__`
